@@ -1,0 +1,23 @@
+.viewdatacont {
+    position: absolute;
+    top: 90px;
+    width: 95vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar {
+    /* margin: 10px; */
+    /* margin-right: 0px; */
+    /* background-color: red; */
+    /* display: unset; */
+    width: 99vw;
+}
+
+.cardsofincident {
+    top: 120px;
+    width: 200px;
+    /* border:10px solid rgb(121, 121, 232); */
+
+}
